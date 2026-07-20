@@ -1,6 +1,6 @@
 cask "herdeye" do
-  version "0.1.1"
-  sha256 "912cb7e68e4c4ad8ee258fbca82d88f4083683ce39eb7921aec71b6b25e3d4f0"
+  version "0.1.2"
+  sha256 "783e799a048e88d0cebe7cc76084834559137241a36b3b942fecf5610b7e0737"
 
   url "https://github.com/shogoisaji/HerdEye/releases/download/v#{version}/HerdEye-#{version}.zip"
   name "HerdEye"
